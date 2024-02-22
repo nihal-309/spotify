@@ -1,0 +1,439 @@
+body{
+  background-color: black;
+}
+.box{
+margin: 10px;
+}
+#object1 {
+  margin: 7px;
+    width: 170px;
+    height: 170px;
+    
+    border-radius: 7%;
+    object-position: center top;
+    /* String value */
+}
+
+#object2 {
+  margin: 7px;
+  width: 170px;
+    height: 170px;
+    
+    border-radius: 7%;
+    /* object-position: center top; */
+    /* Numeric value */
+}
+
+#object3 {
+  margin: 7px;
+  width: 170px;
+    height: 170px;
+    
+    border-radius: 7%;
+    object-position: center top;
+    /* Numeric value */
+}
+
+#object4 {
+  margin: 7px;
+  width: 170px;
+    height: 170px;
+    
+    border-radius: 7%;
+    object-position: center top;
+    /* Numeric value */
+}
+
+#object5 {
+  margin: 7px;
+  width: 170px;
+    height: 170px;
+    border-radius: 7%;
+  
+    object-position: center top;
+    /* Numeric value */
+}
+
+#object6 {
+  border-radius: 7%;
+  margin: 7px;
+  width: 170px;
+    height: 170px;
+    
+  
+    object-position: center top;
+    /* Numeric value */
+}
+
+#object7 {
+  margin: 7px;
+  width: 170px;
+    height: 170px;
+    border-radius: 7%;
+  
+    object-position: center top;
+    /* Numeric value */
+}
+
+#object8 {
+  margin: 7px;
+  width: 170px;
+    height: 170px;
+    
+    border-radius: 7%;
+    object-position: center bottom;
+    /* Numeric value */
+}
+h1{
+color: aliceblue;
+text-align: left;
+text-indent: 2%;
+}
+div.aaaa{
+text-align: center;
+color: aliceblue;
+text-indent: -20%;
+font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+}
+.one{
+border-radius: 3%;
+  background-color: rgb(34, 35, 35);
+  height: 125px;
+  width: 300px;
+}
+
+.two{
+border-radius: 3%;
+  background-color:rgb(23, 24, 23);
+  height: 555px;
+  width: 300px;
+}
+
+.three{
+  background-color:rgb(27, 27, 27);
+  border-radius: 3%;
+  width: 900px;
+  height: 700px;
+}
+
+.four{
+border-radius: 3%;
+  background-color:rgb(26, 26, 27);
+  width: 410px;
+  height: 700px;
+}
+
+.full{
+  display: flex;
+}
+h3{
+color: aliceblue;
+}
+#fff{
+  margin: 7px;
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  left: 79%;
+  border-radius: 7%;
+  object-position: 50%;
+  position: absolute; top: 20%; right: 30px;
+}
+.button {
+display: inline;
+background-color: #ddd;
+border: none;
+color: black;
+padding: 8px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 16px;
+top: 53.2%;
+    left:7.1%;
+    width:100px;
+    height:25px;
+    position: absolute;
+    
+
+}
+.button:hover {
+background-color: #f1f1f1;
+}
+.mutton{
+display: inline;
+background-color: #ddd;
+border: none;
+color: black;
+padding: 8px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 16px;
+top: 80.3%;
+    left:7%;
+    width:100px;
+    height:25px;
+    position: absolute;
+}
+.kutton{
+display: inline;
+background-color: #ffffff;
+border: none;
+color: black;
+padding: 8px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 16px;
+top: 14.3%;
+    right:36%;
+    width:150px;
+    height:35px;
+    position: absolute;
+}
+h3{
+color: rgb(204, 198, 198);
+}
+div.aaaa{
+line-height: 40%;
+
+}
+#aaaa{
+color: aliceblue;
+text-size-adjust: 110%;
+}
+#bbbb{
+position: absolute;
+left: 6%;
+top: 31%;
+
+}
+#gggg{
+background-color: rgb(53, 50, 47);
+height: 120px;
+width: 230px;
+margin: auto;
+border-radius: 8%;
+}
+#L{
+
+background-color: rgb(53, 50, 47);
+height: 140px;
+width: 250px;
+margin: auto;
+border-radius: 8%;
+position: absolute;
+top: 70%;
+right: 4%;
+}
+#hhhh{
+text-align: center;
+text-indent: 2%;
+
+}
+#kkkk{
+background-color: rgb(46, 45, 44);
+height: 170px;
+width: 290px;
+margin: auto;
+border-radius: 8%;
+}
+#llll{
+text-align: center;
+text-indent: 2%;
+
+}
+#pppp{
+position: absolute;
+top: 11%;
+left: 8%;
+color:white;
+text-align: center;
+
+}
+#qqqq{
+position: absolute;
+top: 18%;
+left: 8%;
+color: aliceblue;
+text-align: center;
+}
+#hhhh{
+color: aliceblue;
+text-align: center;
+height: 50px;
+}
+#M{
+
+color: aliceblue;
+text-align: center;
+height: 50px;
+}
+#oooo{position: absolute;
+left: 3%;
+top: 13%;
+}
+#iiii{position: absolute;
+left: 3%;
+top: 20%;
+}
+#B{
+position: absolute;
+left: 14.4%;
+top:33%
+}
+#A{
+color: aliceblue;
+position: absolute;
+left: 24%;
+}
+#C{
+position: absolute;
+top: 33%;
+left: 2%;
+}
+#F{
+position: absolute;
+top: 14%;
+left: 22.6%;
+}
+#H{
+position: absolute;
+top: 14%;
+right: 28%;
+}
+#S{
+line-height: 0.2em;
+margin-top: 280px;
+}
+#bnb{
+position: absolute;
+top: 78%;
+right:6.6%;
+display: inline;
+border: black;
+background-color: rgb(50, 40, 40);
+color:white;
+padding: 8px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 16px;
+width:150px;
+height:40px;
+border:1px solid black inherit;
+}
+
+.layout1{
+background-color: rgb(53, 50, 47);
+height: 210px;
+padding: 3px;
+width: 200px;
+margin: auto;
+border-radius: 8%;
+position: absolute;
+top: 85%;
+
+right: 60%;
+}
+.layout2{
+background-color: rgb(53, 50, 47);
+height: 200px;
+padding: 3px;
+width: 200px;
+margin: auto;
+border-radius: 8%;
+position: absolute;
+top: 28%;
+left:23%;
+}
+.layout3{
+background-color: rgb(53, 50, 47);
+height: 200px;
+padding: 3px;
+width: 200px;
+margin: auto;
+border-radius: 8%;
+position: absolute;
+top: 28%;
+left:60%;
+}
+.layout4{
+background-color: rgb(53, 50, 47);
+height: 200px;
+padding: 3px;
+width: 200px;
+margin: auto;
+border-radius: 8%;
+position: absolute;
+top: 28%;
+left:42%;
+}
+.layout5{
+background-color: rgb(53, 50, 47);
+height: 200px;
+padding: 3px;
+width: 200px;
+margin: auto;
+border-radius: 8%;
+position: absolute;
+top: 60%;
+left:42%;
+}
+.layout6{
+background-color: rgb(53, 50, 47);
+height: 200px;
+padding: 3px;
+width: 200px;
+margin: auto;
+border-radius: 8%;
+position: absolute;
+top: 60%;
+left:60%;
+}
+.layout7{
+background-color: rgb(53, 50, 47);
+height: 200px;
+padding: 3px;
+width: 200px;
+margin: auto;
+border-radius: 8%;
+position: absolute;
+top: 60%;
+left:23%;
+}
+
+#bbbb{
+  color: white;
+}
+
+.ok1{
+  position: absolute;
+  top: 79%;
+  left: 15%;
+}
+
+.ok2{
+  position: absolute;
+  top: 80%;
+  left: 15%;
+}
+
+.ok3{
+  position: absolute;
+  top: 80%;
+  left: 15%;
+}
+
+.ok5{
+  font-family: Franklin Gothic Medium Arial Narrow, Arial, sans-serif; bottom: 60%;right: 4%;
+}
